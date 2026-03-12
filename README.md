@@ -1,4 +1,10 @@
-## Hi there 👋
+Opa
+===
+Eu sou o Breno, estudo Ciências da Computação na UERR, atualmente estudando para Desenvolvimento FullStack Java, começando com Front End em React.
+
+## Projetos:
+
+
 
 <!--
 **breenovsky/breenovsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
