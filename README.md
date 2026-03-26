@@ -2,7 +2,7 @@ Opa
 ===
 Eu sou o Breno, estudante Ciências da Computação na UERR. Atualmente estudando para Desenvolvimento FullStack Java, começando com Front End em React.
 
-## Projetos:
+## Projetos até o momento:
 **Notas Atletas:** Explorando orientação a objetos em JavaScript. Feito para o curso de Desenvolvimento Front End - Senai / DevStart.  
 *Stack:* JavaScript.  
 [breenovsky/notas-atletas](https://github.com/breenovsky/notas-atletas)  
